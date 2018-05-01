@@ -1,0 +1,29 @@
+{
+  "name": "musicOntology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./server.js",
+    "production": "pm2 start ./server.js --name musicOntology"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "sartheus",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "consign": "^0.1.5",
+    "express": "^4.16.2",
+    "jsonwebtoken": "^8.1.1",
+    "mongoose": "^5.0.7",
+    "morgan": "^1.8.2",
+    "pm2": "^2.10.1",
+    "webpack": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1",
+    "webpack-hot-middleware": "^2.21.2"
+  }
+}

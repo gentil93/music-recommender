@@ -2,8 +2,8 @@
   {
     "name": "Meiga e abusada",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Larissa Machado"],
@@ -16,8 +16,8 @@
   {
     "name": "Bang",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Anitta","Umberto Tavares"],
@@ -30,8 +30,8 @@
   {
     "name": "Deixa ele sofrer",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Larissa Machado"],
@@ -44,8 +44,8 @@
   {
     "name": "Tudo de bom",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Desconhecido"],
@@ -58,8 +58,8 @@
   {
     "name": "Bem querer",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Desconhecido"],
@@ -72,8 +72,8 @@
   {
     "name": "Cheia de marra",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Desconhecido"],
@@ -86,8 +86,8 @@
   {
     "name": "Rabiola",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Desconhecido"],
@@ -100,8 +100,8 @@
   {
     "name": "Olha a explosão",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Desconhecido"],
@@ -114,8 +114,8 @@
   {
     "name": "O grave bater",
     "Style": {
-      "class": "Funk",
-      "subClass": "Funk Brasileiro"
+      "genre": "Funk",
+      "subgenre": "Funk Brasileiro"
     },
     "artists": {
       "composers": ["Desconhecido"],
@@ -128,8 +128,8 @@
   {
     "name": "Largado as traças",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Philipe Pancadinha", "André Vox", "Victor Hugo"],
@@ -142,8 +142,8 @@
   {
     "name": "Seu polícia",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Bruno Caliman"],
@@ -156,8 +156,8 @@
   {
     "name": "Amigo taxista",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Junior Angelim"],
@@ -170,8 +170,8 @@
   {
     "name": "Medo bobo",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Juliano Tchula"],
@@ -184,8 +184,8 @@
   {
     "name": "Sorte que cê beija bem",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Gustavo Martins"],
@@ -198,8 +198,8 @@
   {
     "name": "10%",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Gabriel Agra", "Danilo Davila"],
@@ -212,8 +212,8 @@
   {
     "name": "Eu sei de cor",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Danilo Davila"],
@@ -226,8 +226,8 @@
   {
     "name": "Estranho",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Michel Alves"],
@@ -240,8 +240,8 @@
   {
     "name": "Como faz com ela",
     "Style": {
-      "class": "Sertanejo",
-      "subClass": "Sertanejo universitário"
+      "genre": "Sertanejo",
+      "subgenre": "Sertanejo universitário"
     },
     "artists": {
       "composers": ["Paula Mattos"],
@@ -254,8 +254,8 @@
   {
     "name": "Será",
     "Style": {
-      "class": "Rock",
-      "subClass": "Rock nacional"
+      "genre": "Rock",
+      "subgenre": "Rock nacional"
     },
     "artists": {
       "composers": ["Renato Russo"],
@@ -268,8 +268,8 @@
   {
     "name": "Ainda é cedo",
     "Style": {
-      "class": "Rock",
-      "subClass": "Rock nacional"
+      "genre": "Rock",
+      "subgenre": "Rock nacional"
     },
     "artists": {
       "composers": ["Renato Russo"],
@@ -282,8 +282,8 @@
   {
     "name": "Eduardo e Mônica",
     "Style": {
-      "class": "Rock",
-      "subClass": "Rock nacional"
+      "genre": "Rock",
+      "subgenre": "Rock nacional"
     },
     "artists": {
       "composers": ["Renato Russo"],
@@ -296,8 +296,8 @@
   {
     "name": "Eu nunca disse adeus",
     "Style": {
-      "class": "Rock",
-      "subClass": "Rock nacional"
+      "genre": "Rock",
+      "subgenre": "Rock nacional"
     },
     "artists": {
       "composers": ["Dinho Ouro Preto"],
@@ -310,8 +310,8 @@
   {
     "name": "Que país é esse?",
     "Style": {
-      "class": "Rock",
-      "subClass": "Rock nacional"
+      "genre": "Rock",
+      "subgenre": "Rock nacional"
     },
     "artists": {
       "composers": ["Renato Russo"],
@@ -324,8 +324,8 @@
   {
     "name": "Natasha",
     "Style": {
-      "class": "Rock",
-      "subClass": "Rock nacional"
+      "genre": "Rock",
+      "subgenre": "Rock nacional"
     },
     "artists": {
       "composers": ["Dinho Ouro Preto"],
@@ -338,8 +338,8 @@
   {
     "name": "Hoje o céu abriu",
     "Style": {
-      "class": "Rock",
-      "subClass": "Pop Rock"
+      "genre": "Rock",
+      "subgenre": "Pop Rock"
     },
     "artists": {
       "composers": ["Cecilia PM"],
@@ -352,8 +352,8 @@
   {
     "name": "Cedo ou Tarde",
     "Style": {
-      "class": "Rock",
-      "subClass": "Pop Rock"
+      "genre": "Rock",
+      "subgenre": "Pop Rock"
     },
     "artists": {
       "composers": ["Di Ferreiro", "Leandro Rocha"],
@@ -366,8 +366,8 @@
   {
     "name": "Razões e Emoções",
     "Style": {
-      "class": "Rock",
-      "subClass": "Pop Rock"
+      "genre": "Rock",
+      "subgenre": "Pop Rock"
     },
     "artists": {
       "composers": ["Gee Rocha", "Di Ferreiro"],
@@ -380,8 +380,8 @@
   {
     "name": "Caraca, Muleke!",
     "Style": {
-      "class": "Pagode",
-      "subClass": "Pagode"
+      "genre": "Pagode",
+      "subgenre": "Pagode"
     },
     "artists": {
       "composers": ["Thiaguinho", "Gabriel Barriga"],
@@ -394,8 +394,8 @@
   {
     "name": "Sou o cara pra você",
     "Style": {
-      "class": "Pagode",
-      "subClass": "Pagode"
+      "genre": "Pagode",
+      "subgenre": "Pagode"
     },
     "artists": {
       "composers": ["Thiaguinho"],
@@ -408,8 +408,8 @@
   {
     "name": "Buquê de Flores",
     "Style": {
-      "class": "Pagode",
-      "subClass": "Pagode"
+      "genre": "Pagode",
+      "subgenre": "Pagode"
     },
     "artists": {
       "composers": ["Thiaguinho", "Pézinho"],
@@ -422,8 +422,8 @@
   {
     "name": "Sobrenatural",
     "Style": {
-      "class": "Pagode",
-      "subClass": "Pagode"
+      "genre": "Pagode",
+      "subgenre": "Pagode"
     },
     "artists": {
       "composers": ["Humberto Tavares"],
@@ -436,8 +436,8 @@
   {
     "name": "Hoje a noite é nossa",
     "Style": {
-      "class": "Pagode",
-      "subClass": "Pagode"
+      "genre": "Pagode",
+      "subgenre": "Pagode"
     },
     "artists": {
       "composers": ["Bruno Diegues"],
@@ -450,8 +450,8 @@
   {
     "name": "Meu Jeito Moleque",
     "Style": {
-      "class": "Pagode",
-      "subClass": "Pagode"
+      "genre": "Pagode",
+      "subgenre": "Pagode"
     },
     "artists": {
       "composers": ["Bruno Diegues"],
@@ -464,8 +464,8 @@
   {
     "name": "Jackie Tequila",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop rock"
+      "genre": "MPB",
+      "subgenre": "Pop rock"
     },
     "artists": {
       "composers": ["Samuel Rosa"],
@@ -478,8 +478,8 @@
   {
     "name": "Garota Nacional",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop rock"
+      "genre": "MPB",
+      "subgenre": "Pop rock"
     },
     "artists": {
       "composers": ["Samuel Rosa"],
@@ -492,8 +492,8 @@
   {
     "name": "Ainda gosto dela",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop rock"
+      "genre": "MPB",
+      "subgenre": "Pop rock"
     },
     "artists": {
       "composers": ["Samuel Rosa", "Nando Reis"],
@@ -506,8 +506,8 @@
   {
     "name": "Fica",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop"
+      "genre": "MPB",
+      "subgenre": "Pop"
     },
     "artists": {
       "composers": ["Ana Clara Caetano", "Matheus Aleixo"],
@@ -520,8 +520,8 @@
   {
     "name": "Clareiamô",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop"
+      "genre": "MPB",
+      "subgenre": "Pop"
     },
     "artists": {
       "composers": ["Ana Clara Caetano"],
@@ -534,8 +534,8 @@
   {
     "name": "Trevo (Tu)",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop"
+      "genre": "MPB",
+      "subgenre": "Pop"
     },
     "artists": {
       "composers": ["Ana Clara Caetano", "Tiago Iorc"],
@@ -548,8 +548,8 @@
   {
     "name": "Velha e Louca",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop"
+      "genre": "MPB",
+      "subgenre": "Pop"
     },
     "artists": {
       "composers": ["Mallu Magalhães"],
@@ -562,8 +562,8 @@
   {
     "name": "Sambinha bom",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop"
+      "genre": "MPB",
+      "subgenre": "Pop"
     },
     "artists": {
       "composers": ["Mallu Magalhães"],
@@ -576,8 +576,8 @@
   {
     "name": "Olha só, moreno!",
     "Style": {
-      "class": "MPB",
-      "subClass": "Pop"
+      "genre": "MPB",
+      "subgenre": "Pop"
     },
     "artists": {
       "composers": ["Mallu Magalhães"],

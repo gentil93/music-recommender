@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Meiga e abusada",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Larissa Machado"],
+      "singer": "Anitta"
+
+    },
+    "Album": "Anitta",
+    "duration": "3:49"
+  },
+  {
+    "name": "Bang",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Anitta","Umberto Tavares"],
+      "singer": "Anitta"
+
+    },
+    "Album": "Bang",
+    "duration": "3:10"
+  },
+  {
+    "name": "Deixa ele sofrer",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Larissa Machado"],
+      "singer": "Anitta"
+
+    },
+    "Album": "Anitta",
+    "duration": "2:51"
+  }
+]

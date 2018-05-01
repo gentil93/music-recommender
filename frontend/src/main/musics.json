@@ -40,5 +40,552 @@
     },
     "Album": "Anitta",
     "duration": "2:51"
+  }, 
+  {
+    "name": "Tudo de bom",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Desconhecido"],
+      "singer": "Mc Livinho"
+
+    },
+    "Album": "Vagabundo romântico",
+    "duration": "2:19"
+  }, 
+  {
+    "name": "Bem querer",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Desconhecido"],
+      "singer": "Mc Livinho"
+
+    },
+    "Album": "Mc Livinho",
+    "duration": "4:52"
+  }, 
+  {
+    "name": "Cheia de marra",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Desconhecido"],
+      "singer": "Mc Livinho"
+
+    },
+    "Album": "Vagabundo romântico",
+    "duration": "3:46"
+  }, 
+  {
+    "name": "Rabiola",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Desconhecido"],
+      "singer": "Mc Kevinho"
+
+    },
+    "Album": "Rabiola",
+    "duration": "2:56"
+  }, 
+  {
+    "name": "Olha a explosão",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Desconhecido"],
+      "singer": "Mc Kevinho"
+
+    },
+    "Album": "Olha a explosão",
+    "duration": "2:42"
+  }, 
+  {
+    "name": "O grave bater",
+    "Style": {
+      "class": "Funk",
+      "subClass": "Funk Brasileiro"
+    },
+    "artists": {
+      "composers": ["Desconhecido"],
+      "singer": "Mc Kevinho"
+
+    },
+    "Album": "Olha a explosão",
+    "duration": "3:01"
+  }, 
+  {
+    "name": "Largado as traças",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Philipe Pancadinha", "André Vox", "Victor Hugo"],
+      "singer": "Zé Neto e Cristiano"
+
+    },
+    "Album": "Zé Neto e Cristiano Acústico",
+    "duration": "3:38"
+  }, 
+  {
+    "name": "Seu polícia",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Bruno Caliman"],
+      "singer": "Zé Neto e Cristiano"
+
+    },
+    "Album": "Um novo sonho - Deluxe",
+    "duration": "2:58"
+  }, 
+  {
+    "name": "Amigo taxista",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Junior Angelim"],
+      "singer": "Zé Neto e Cristiano"
+
+    },
+    "Album": "Um novo sonho - Deluxe",
+    "duration": "3:17"
+  }, 
+  {
+    "name": "Medo bobo",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Juliano Tchula"],
+      "singer": "Maiara e Maraísa"
+
+    },
+    "Album": "Ao vivo em Goiânia",
+    "duration": "2:54"
+  }, 
+  {
+    "name": "Sorte que cê beija bem",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Gustavo Martins"],
+      "singer": "Maiara e Maraísa"
+
+    },
+    "Album": "Ao vivo em Goiânia",
+    "duration": "2:31"
+  }, 
+  {
+    "name": "10%",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Gabriel Agra", "Danilo Davila"],
+      "singer": "Maiara e Maraísa"
+
+    },
+    "Album": "Ao vivo em Goiânia",
+    "duration": "2:57"
+  }, 
+  {
+    "name": "Eu sei de cor",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Danilo Davila"],
+      "singer": "Marília Mendonça"
+
+    },
+    "Album": "Realidade - Ao vivo em Manaus",
+    "duration": "3:05"
+  }, 
+  {
+    "name": "Estranho",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Michel Alves"],
+      "singer": "Marília Mendonça"
+
+    },
+    "Album": "Agora é que são elas 2 (Ao vivo)",
+    "duration": "2:37"
+  }, 
+  {
+    "name": "Como faz com ela",
+    "Style": {
+      "class": "Sertanejo",
+      "subClass": "Sertanejo universitário"
+    },
+    "artists": {
+      "composers": ["Paula Mattos"],
+      "singer": "Marília Mendonça"
+
+    },
+    "Album": "Marília Mendonça Ao vivo",
+    "duration": "2:30"
+  }, 
+  {
+    "name": "Será",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Rock nacional"
+    },
+    "artists": {
+      "composers": ["Renato Russo"],
+      "singer": "Legião Urbana"
+
+    },
+    "Album": "Legião Urbana",
+    "duration": "2:30"
+  }, 
+  {
+    "name": "Ainda é cedo",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Rock nacional"
+    },
+    "artists": {
+      "composers": ["Renato Russo"],
+      "singer": "Legião Urbana"
+
+    },
+    "Album": "Legião Urbana",
+    "duration": "3:57"
+  }, 
+  {
+    "name": "Eduardo e Mônica",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Rock nacional"
+    },
+    "artists": {
+      "composers": ["Renato Russo"],
+      "singer": "Legião Urbana"
+
+    },
+    "Album": "Mais do mesmo",
+    "duration": "4:31"
+  }, 
+  {
+    "name": "Eu nunca disse adeus",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Rock nacional"
+    },
+    "artists": {
+      "composers": ["Dinho Ouro Preto"],
+      "singer": "Capital Inicial"
+
+    },
+    "Album": "Eu nunca disse adeus",
+    "duration": "3:28"
+  }, 
+  {
+    "name": "Que país é esse?",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Rock nacional"
+    },
+    "artists": {
+      "composers": ["Renato Russo"],
+      "singer": "Capital Inicial"
+
+    },
+    "Album": "Especial Aborto Elétrico",
+    "duration": "2:58"
+  }, 
+  {
+    "name": "Natasha",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Rock nacional"
+    },
+    "artists": {
+      "composers": ["Dinho Ouro Preto"],
+      "singer": "Capital Inicial"
+
+    },
+    "Album": "Capital Inicial Multishow Ao Vivo",
+    "duration": "3:17"
+  }, 
+  {
+    "name": "Hoje o céu abriu",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Pop Rock"
+    },
+    "artists": {
+      "composers": ["Cecilia PM"],
+      "singer": "NX Zero"
+
+    },
+    "Album": "Em comum",
+    "duration": "3:51"
+  }, 
+  {
+    "name": "Cedo ou Tarde",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Pop Rock"
+    },
+    "artists": {
+      "composers": ["Di Ferreiro", "Leandro Rocha"],
+      "singer": "NX Zero"
+
+    },
+    "Album": "Agora",
+    "duration": "3:13"
+  }, 
+  {
+    "name": "Razões e Emoções",
+    "Style": {
+      "class": "Rock",
+      "subClass": "Pop Rock"
+    },
+    "artists": {
+      "composers": ["Gee Rocha", "Di Ferreiro"],
+      "singer": "NX Zero"
+
+    },
+    "Album": "NX Zero",
+    "duration": "3:42"
+  }, 
+  {
+    "name": "Caraca, Muleke!",
+    "Style": {
+      "class": "Pagode",
+      "subClass": "Pagode"
+    },
+    "artists": {
+      "composers": ["Thiaguinho", "Gabriel Barriga"],
+      "singer": "Thiaguinho"
+
+    },
+    "Album": "Outro dia, Outra história",
+    "duration": "2:50"
+  }, 
+  {
+    "name": "Sou o cara pra você",
+    "Style": {
+      "class": "Pagode",
+      "subClass": "Pagode"
+    },
+    "artists": {
+      "composers": ["Thiaguinho"],
+      "singer": "Thiaguinho"
+
+    },
+    "Album": "Ousadia & Alegria",
+    "duration": "3:19"
+  }, 
+  {
+    "name": "Buquê de Flores",
+    "Style": {
+      "class": "Pagode",
+      "subClass": "Pagode"
+    },
+    "artists": {
+      "composers": ["Thiaguinho", "Pézinho"],
+      "singer": "Thiaguinho"
+
+    },
+    "Album": "Ousadia & Alegria",
+    "duration": "3:34"
+  }, 
+  {
+    "name": "Sobrenatural",
+    "Style": {
+      "class": "Pagode",
+      "subClass": "Pagode"
+    },
+    "artists": {
+      "composers": ["Humberto Tavares"],
+      "singer": "Jeito Moloque"
+
+    },
+    "Album": "Me faz feliz",
+    "duration": "3:39"
+  }, 
+  {
+    "name": "Hoje a noite é nossa",
+    "Style": {
+      "class": "Pagode",
+      "subClass": "Pagode"
+    },
+    "artists": {
+      "composers": ["Bruno Diegues"],
+      "singer": "Jeito Moleque"
+
+    },
+    "Album": "Jeito Moleque",
+    "duration": "5:01"
+  }, 
+  {
+    "name": "Meu Jeito Moleque",
+    "Style": {
+      "class": "Pagode",
+      "subClass": "Pagode"
+    },
+    "artists": {
+      "composers": ["Bruno Diegues"],
+      "singer": "Jeito Moleque"
+
+    },
+    "Album": "Me faz feliz",
+    "duration": "3:30"
+  }, 
+  {
+    "name": "Jackie Tequila",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop rock"
+    },
+    "artists": {
+      "composers": ["Samuel Rosa"],
+      "singer": "Skank"
+
+    },
+    "Album": "Calango 15 anos",
+    "duration": "4:09"
+  },
+  {
+    "name": "Garota Nacional",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop rock"
+    },
+    "artists": {
+      "composers": ["Samuel Rosa"],
+      "singer": "Skank"
+
+    },
+    "Album": "O samba poconé",
+    "duration": "5:17"
+  }, 
+  {
+    "name": "Ainda gosto dela",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop rock"
+    },
+    "artists": {
+      "composers": ["Samuel Rosa", "Nando Reis"],
+      "singer": "Skank"
+
+    },
+    "Album": "Estadarte",
+    "duration": "5:13"
+  },
+  {
+    "name": "Fica",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop"
+    },
+    "artists": {
+      "composers": ["Ana Clara Caetano", "Matheus Aleixo"],
+      "singer": "Anavitória ft. Matheus e Kauan"
+
+    },
+    "Album": "Fica",
+    "duration": "3:04"
+  },
+  {
+    "name": "Clareiamô",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop"
+    },
+    "artists": {
+      "composers": ["Ana Clara Caetano"],
+      "singer": "Anavitória"
+
+    },
+    "Album": "Anavitória canta para foliões de bloco",
+    "duration": "3:46"
+  },
+  {
+    "name": "Trevo (Tu)",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop"
+    },
+    "artists": {
+      "composers": ["Ana Clara Caetano", "Tiago Iorc"],
+      "singer": "Anavitória ft. Tiago Iorc"
+
+    },
+    "Album": "Anavitória",
+    "duration": "3:04"
+  },
+  {
+    "name": "Velha e Louca",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop"
+    },
+    "artists": {
+      "composers": ["Mallu Magalhães"],
+      "singer": "Mallu Magalhães"
+
+    },
+    "Album": "Pitanga",
+    "duration": "2:45"
+  },
+  {
+    "name": "Sambinha bom",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop"
+    },
+    "artists": {
+      "composers": ["Mallu Magalhães"],
+      "singer": "Mallu Magalhães"
+
+    },
+    "Album": "Pitanga",
+    "duration": "2:45"
+  },
+  {
+    "name": "Olha só, moreno!",
+    "Style": {
+      "class": "MPB",
+      "subClass": "Pop"
+    },
+    "artists": {
+      "composers": ["Mallu Magalhães"],
+      "singer": "Mallu Magalhães"
+
+    },
+    "Album": "Pitanga",
+    "duration": "2:45"
   }
+  
 ]

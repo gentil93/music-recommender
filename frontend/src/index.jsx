@@ -9,6 +9,7 @@ import thunk from 'redux-thunk'
 
 import App from './main/app'
 import reducers from './main/reducers'
+require('../semantic/dist/semantic.min.css')
 
 const devTools = window.__REDUX_DEVTOOLS_EXTENSION__
     && window.__REDUX_DEVTOOLS_EXTENSION__()

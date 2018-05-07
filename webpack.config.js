@@ -75,7 +75,7 @@ module.exports = {
     // dependencies, which allows browsers to cache those libraries between builds.
 
     devServer: {
-        port: 8080,
+        port: process.env.PORT || 8080,
         contentBase: './public',
         historyApiFallback: true
     }

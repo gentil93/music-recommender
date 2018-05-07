@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --progress --colors --inline --hot",
+    "start": "./node_modules/webpack/bin/webpack.js -p --progress && node server.js",
+    "dev": "webpack-dev-server --progress --colors --inline --hot",
     "production": "webpack --progress -p"
   },
   "keywords": [],
@@ -48,9 +49,11 @@
     "xml2js": "^0.4.19"
   },
   "dependencies": {
+    "express": "^4.16.3",
     "fs": "0.0.1-security",
     "gulp": "^3.9.1",
     "gulp-cli": "^2.0.1",
+    "path": "^0.12.7",
     "xml-loader": "^1.2.1"
   }
 }

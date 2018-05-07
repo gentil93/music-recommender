@@ -25,7 +25,7 @@ class MainContainer extends Component {
             textAlign='center'
             as='h2'
             icon >
-            <Icon name='sound' /> Music Player 
+            <Icon name='sound' /> Music Recomendation 
           </Header> 
           <Grid.Row>
             <Grid.Column style={{ overflow: 'auto', height: '35em' }} width={3}>

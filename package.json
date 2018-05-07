@@ -12,6 +12,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    
+  },
+  "dependencies": {
     "axios": "^0.15.3",
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
@@ -46,9 +49,7 @@
     "style-loader": "^0.13.1",
     "webpack": "^3.11.0",
     "webpack-dev-server": "^2.11.1",
-    "xml2js": "^0.4.19"
-  },
-  "dependencies": {
+    "xml2js": "^0.4.19",
     "express": "^4.16.3",
     "fs": "0.0.1-security",
     "gulp": "^3.9.1",
